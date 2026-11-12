@@ -208,4 +208,4 @@ This repository serves as the official landing page for Hotspot Shield. The soft
 **Get the most recent version of Hotspot Shield today!**
 
 ---
-**Last updated:** 2026-11-11 22:27:07 UTC
+**Last updated:** 2026-11-12 03:34:35 UTC
